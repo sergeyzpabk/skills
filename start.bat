@@ -1,2 +1,2 @@
-python tg_design.py
+python main.py
 pause
